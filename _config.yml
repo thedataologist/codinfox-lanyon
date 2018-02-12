@@ -9,17 +9,17 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:            Codinfox
-tagline:          'Learning to be Giant.'
-description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+title:            Dataologist
+tagline:          'Ramblings of a data <s>scientist</s> student.'
+description:      'Blog of The Dataologist. More to come.'
+url:              http://www.dataologist.com
 
 author:
-  name:           'Your Name'
+  name:           'The Dataologist'
   url:            http://codinfox.github.io
   gravatar:       https://en.gravatar.com/yourname
   photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
-  introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
+  introduction:   'A data scientist in the making with knowledge of tools like Splunk to gather, search, analyze machine-generated big data.'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
