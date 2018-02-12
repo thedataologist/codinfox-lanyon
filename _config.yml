@@ -28,6 +28,6 @@ paginate_path:    '/blog/page:num'
 version:          1.0.0
 
 github:
-  repo:           https://github.com/codinfox/lanyon-codinfox.github.io
+  repo:           https://github.com/thedataologist/dataologist.github.io
 
 theme: jekyll-theme-time-machine
