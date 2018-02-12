@@ -5,9 +5,11 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
+    <!-- Temporarily disable gravatar logo
     <a href="{{ site.author.gravatar }}" title="View on Gravatar" class="codinfox-profile-photo">
       <img src="{{ site.author.photo }}" alt="Gravatar"/>
     </a>
+    -->
     <p>{{ site.author.introduction }}</p>
   </div>
 
@@ -28,9 +30,11 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">Fork me on Github</a>
-<!--     <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+    
+    <!--
+     <a class="sidebar-nav-item" href="{{ site.github.repo }}">Fork me on Github</a>
+     <span class="sidebar-nav-item">Currently v{{ site.version }}</span> 
+    -->
   </nav>
 
   <div class="sidebar-item">
