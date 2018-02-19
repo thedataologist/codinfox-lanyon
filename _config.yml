@@ -1,6 +1,6 @@
 # Dependencies
 markdown:            redcarpet
-highlighter:         pygments
+highlighter:         rouge
 
 # Permalinks
 #
@@ -18,8 +18,8 @@ author:
   name:           'The Dataologist'
   url:            http://www.dataologist.com/thedataologist
   gravatar:       https://en.gravatar.com/thedataologist
-  photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
-  description:   'A data scientist in the making with knowledge of tools like Splunk to gather, search, analyze machine-generated big data.'
+  photo:          https://1.gravatar.com/avatar/d70d0286fbf7c1cffbd02731af5f85ed?s=400&d=mm
+  description:   'A blog following the journey of a dataist. Finding, using and reporting on tools that further data science.'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
